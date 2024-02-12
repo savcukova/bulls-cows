@@ -1,10 +1,3 @@
-"""
-projekt_2.py: druhý projekt do Engeto Online Python Akademie
-
-author: Olina Savčuková
-email: olinkasavcuk@gmail.com
-discord: olinasavcukova_13648
-"""
 import random
 
 
